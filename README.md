@@ -43,10 +43,12 @@
         - scrape_url()
         - clean_playbyplay()
         - save_playbyplay()
-                  
-                  
-7. final_python.py 
+7. analysis.Rmd
+      - file contains all analysis coding for graphs/regressions
+8. cs345proj.Rmd
+      - contains R code for the SQL visual representations                                  
+9. final_python.py 
      - contains interface for users and theh queries to be ran within that
     
-8. finalproject_cjrich19.sql
+10. finalproject_cjrich19.sql
     - contains all SQL queries 
