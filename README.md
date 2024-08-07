@@ -1,7 +1,7 @@
 # SYEvolleyball
 
 ## Project Description
-   This project scraped and analyzed NCAA Division 3 Liberty League Volleyball Data for 2013-2022 seasons. 
+   This honors senior reasearch project scraped and analyzed NCAA Division 3 Liberty League Volleyball Data for 2013-2022 seasons. 
    
 ## Data Files Key
 
